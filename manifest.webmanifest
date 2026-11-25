@@ -1,0 +1,17 @@
+{
+  "name": "Carnet de tir",
+  "short_name": "Carnet de tir",
+  "description": "Score de tir à l'arc : flèches, volées, séances et statistiques, sans internet.",
+  "lang": "fr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f3f5f2",
+  "theme_color": "#1f6b4a",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
